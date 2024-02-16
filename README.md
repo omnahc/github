@@ -1,2 +1,2 @@
-# gitnub
+# github
 github
